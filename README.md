@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sinhaaayam
+- 👋 Hi, I’m @Thryve
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Frontend Development and DSA
 - 💞️ I’m looking to collaborate on web development projects
